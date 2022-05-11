@@ -2,6 +2,9 @@ from tkinter import *
 from random import randint
 win = Tk()
 
+
+#by NIMA MOHAMMADI
+
 select = {
     1:"سنگ",
     2:"قیچی",
