@@ -1,5 +1,5 @@
 project name : stone-paper-scissor game
-programming languages : PYTHON
-library : TKINTER
+programming languages : python
+library : tkinter
 BY : NIMA MOHAMMADI
-status : Public
+satus : public
